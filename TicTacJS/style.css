@@ -1,0 +1,22 @@
+.row1{
+  width: 600px;
+  height: 200px;
+}
+.square{
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: white;
+  float: left;
+}
+
+.container {
+  padding-left: 15%;
+}
+
+.img {
+  max-width: 150px;
+  margin: auto;
+  padding-top: 20px;
+}
