@@ -3,3 +3,6 @@ Personal Front End Development projects. For live demo's, visit my CodePen profi
 
 ## TicTacJS
 Tic Tac Toe game with smart AI made using JavaScript and jQuery.
+
+## Calculator
+Simple JavaScript calculator capable of concatenating basic operations.
